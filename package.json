@@ -23,7 +23,11 @@
     "homepage": "https://github.com/duyphuc174/nodejs_blog#readme",
     "dependencies": {
         "express": "^4.18.2",
-        "express-handlebars": "^7.0.2"
+        "express-handlebars": "^7.0.2",
+        "method-override": "^3.0.0",
+        "mongoose": "^7.0.2",
+        "mongoose-delete": "^0.5.4",
+        "mongoose-slug-generator": "^1.0.4"
     },
     "devDependencies": {
         "morgan": "^1.10.0",
